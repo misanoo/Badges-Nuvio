@@ -1,7 +1,7 @@
 {
   "filters": [
     {
-      "borderColor": "#FF2400",
+      "borderColor": "#D73920",
       "groupId": "gr",
       "id": "r-4k",
       "imageURL": "https://raw.githubusercontent.com/misanoo/Badges-Nuvio/refs/heads/main/res-4k.png",
@@ -14,7 +14,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF2400",
+      "borderColor": "#D73920",
       "groupId": "gr",
       "id": "r-1080",
       "imageURL": "https://raw.githubusercontent.com/misanoo/Badges-Nuvio/refs/heads/main/res-1080p.png",
@@ -27,7 +27,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF2400",
+      "borderColor": "#D73920",
       "groupId": "gr",
       "id": "r-720",
       "imageURL": "https://raw.githubusercontent.com/misanoo/Badges-Nuvio/refs/heads/main/res-720p.png",

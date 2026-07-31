@@ -333,7 +333,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF9C27B0",
+      "borderColor": "#FF4CAF50",
       "groupId": "gvc",
       "id": "f8",
       "imageURL": "https://raw.githubusercontent.com/misanoo/Badges-Nuvio/refs/heads/main/codec-avc.png",
@@ -346,7 +346,7 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FF2196F3",
+      "borderColor": "#FF4CAF50",
       "groupId": "gvc",
       "id": "f9",
       "imageURL": "https://raw.githubusercontent.com/misanoo/Badges-Nuvio/refs/heads/main/codec-av1.png",
@@ -942,7 +942,7 @@
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
-    },
+    },3
     {
       "borderColor": "#FFFFCE00",
       "groupId": "gl",
